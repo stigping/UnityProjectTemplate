@@ -18,10 +18,10 @@ Having an organized project structure as well as scene hierarchy is beneficial t
 
 ### Scene
 
-- All empty objects should be located at 0,0,0 with default rotation and scale.
-- When you’re instantiating an object in runtime, make sure to put it in _Dynamic – do not pollute the root of your hierarchy or you will find it difficult to navigate through it.
-- For empty objects that are only containers for scripts, use “@” as prefix – e.g. @ScriptName.
-- Try using prefabs for everything if possible, it will make the workflow feel a lot smoother - e.g. you don't need to make a new player for each stage, just add the prefab for the player that you've saved already.
+- Clean — All empty objects should be located at 0,0,0 with default rotation and scale.
+- Instantiating — When you’re instantiating an object in runtime, make sure to put it in _Dynamic – do not pollute the root of your hierarchy or you will find it difficult to navigate through it.
+- Prefixes — For empty objects that are only containers for scripts, use “@” as prefix – e.g. @ScriptName.
+- Prefabs — Try using prefabs for everything if possible, it will make the workflow feel a lot smoother - e.g. you don't need to make a new player for each stage, just add the prefab for the player that you've saved already.
 
 # Created By
 
