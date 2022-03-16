@@ -12,7 +12,7 @@ Having an organized project structure as well as scene hierarchy is beneficial t
 
 ### Project
 
-Test 1  
+* Test 1   
 
 ### Scene
 
