@@ -12,7 +12,9 @@ Having an organized project structure as well as scene hierarchy is beneficial t
 
 ### Project
 
-* Test 1   
+- Consistency — The project structure has consistency in presentation regardless of team location, spoken language, or individual programmers.
+- Maintenance — Consistent project structure will aid readability. Readability helps new and existing programmers revisit the code base for fixes and improvements.
+- Communication — Developers more implicitly understand each other in written and verbal communication.
 
 ### Scene
 
