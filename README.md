@@ -1,7 +1,7 @@
 # Unity Project Template
 
 Folder structure as of 16/03/2022  
-This is updated to use the current LTS version, but the folder structure will work on all versions
+This is updated with 2020.3.30f1 LTS, but the folder structure will work on all versions
 
 # Created By
 
