@@ -2,16 +2,13 @@
 
 Folder structure as of 16/03/2022
 
-Unity — Project Structure Best Practices
-=============
+# Unity — Project Structure Best Practices
 
-Created By
-=============
+# Created By
 
 - Stig Omdal
 
-Contact
-=============
+# Contact
 
 - Twitter - <a href="https://twitter.com/stigping/">@stigping</a>
 - Git - <a href="https://github.com/StigPing/">Github.com/StigPing</a>
